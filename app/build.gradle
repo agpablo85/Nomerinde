@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace 'com.pablo.norindeno'
+    namespace 'com.pablo.nomerinde'
     compileSdk 34
 
     defaultConfig {
-        applicationId "com.pablo.norindeno"
+        applicationId "com.pablo.nomerinde"
         minSdk 24
         targetSdk 34
         versionCode 1
